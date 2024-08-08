@@ -64,12 +64,20 @@ Evaluation datasets are:
         >>> login(YOUR_HF_TOKEN)
         ```
 
-    * Once you successfully login, follow the below directions.
+    * Once you successfully login, follow the below algorithms.
 
-#### CBDS
-#### RD-direct
-#### RD-channel
-#### LLM Retriever
-#### UPRISE
-#### OpenICL TopK
-#### OpenICL Random
+Below are all the algorithms we tested in our paper. To run those algorithms, please redirect to the algorithm folder by clicking the link.
+#### [CBDS](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/CBDS)
+* Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning
+#### [RD-direct](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/RD-direct)
+* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?
+#### [RD-channel](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/RD-channel)
+* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?
+#### [LLM Retriever](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/LLM-Retriever)
+* Learning to Retrieve In-Context Examples for Large Language Models
+#### [UPRISE](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/UPRISE)
+* UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation
+#### [OpenICL TopK](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/OpenICL-TopK)
+* OpenICL: An Open-Source Framework for In-context Learning
+#### [OpenICL Random](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/OpenICL-Random)
+* OpenICL: An Open-Source Framework for In-context Learning
