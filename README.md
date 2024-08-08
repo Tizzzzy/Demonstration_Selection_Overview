@@ -81,3 +81,15 @@ Below are all the algorithms we tested in our paper. To run those algorithms, pl
 * OpenICL: An Open-Source Framework for In-context Learning
 #### [OpenICL Random](https://github.com/Tizzzzy/Demonstration_Selection_Overview/tree/main/OpenICL-Random)
 * OpenICL: An Open-Source Framework for In-context Learning
+
+### 📞 Contact
+
+If you have any question or suggestion related to this project, feel free to open an issue or pull request.
+
+### ✨ Citation
+
+If you find this repository useful, please consider giving a star ⭐ and citation
+
+```
+
+```
