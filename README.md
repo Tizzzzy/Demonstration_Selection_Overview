@@ -49,6 +49,23 @@ Evaluation datasets are:
 * Classification (3 datasets): `glue-mrpc`, `glue-qnli`,`glue-sst2`,
 * Multi-choice (2 datasets): `commonsense_qa`, `swag`
 
+1. Requesting model access from META
+    * visit this [link](https://ai.meta.com/blog/meta-llama-3/) and request the access to the LLaMa3-8B model. 
+2. Requesting model access from Hugging Face
+    * Once request is approved, use the same email adrress to get the access of the model from HF [here](https://huggingface.co/meta-llama/Meta-Llama-3-8B).
+3. Authorising HF token
+    * Once HF request to access the model has been approved, create huggingface token [here](https://huggingface.co/settings/tokens). Run below code and enter your token. It will authenticate your HF account
+        ```python
+        >>> huggingface-cli login
+        
+        or
+        
+        >>> from huggingface_hub import login
+        >>> login(YOUR_HF_TOKEN)
+        ```
+
+    * Once you successfully login, follow the below directions.
+
 #### CBDS
 #### RD-direct
 #### RD-channel
