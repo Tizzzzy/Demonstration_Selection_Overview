@@ -1,4 +1,16 @@
-# Rethinking/Benchmarking demonstration algorithms in in context learning of large language models
+# Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning
+
+This includes an original implementation of "[Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning][]" by [Dong Shu](https://scholar.google.com/citations?user=KfIlTroAAAAJ&hl=en) and [Mengnan Du](https://mengnandu.com/).
+
+This code provides:
+- Links to the paper and GitHub repository related to the **demonstration selection** topic.
+- Codes for evaluating the demonstration selection algorithm used in the experiments.
+
+Please leave issues for any questions about the paper or the code.
+
+If you find our code or paper useful, please cite the paper:
+```
+```
 
 Demonstration selection algorithms play a crucial role in enhancing the performance of Large Language Models (LLMs) on various tasks. These algorithms assist users in selecting the best k input-label pairs (demonstration examples) based on a given test input, enabling LLMs to in-context learn the relationship between the provided examples and the test inputs. Despite all the proposed demonstration selection algorithms, their efficiency and effectiveness remain unclear. This lack of clarity make it difficult to apply these algorithms in real-world scenarios and poses challenges for future research aimed at developing improved methods. This paper revisits seven proposed algorithms, evaluating them on five datasets from both efficiency and effectiveness perspectives.
 
