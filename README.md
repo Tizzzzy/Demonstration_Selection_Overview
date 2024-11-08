@@ -1,6 +1,20 @@
-# Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning
+# Awesome Demonstration Selection Algorithms
 
-This includes an original implementation of "[Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning][]" by [Dong Shu](https://scholar.google.com/citations?user=KfIlTroAAAAJ&hl=en) and [Mengnan Du](https://mengnandu.com/).
+## Our works
+
+🔥🔥🔥 **Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning**
+
+**[Paper](https://arxiv.org/pdf/2410.23099)** | **[Project Page [This Page]](https://github.com/Tizzzzy/Demonstration_Selection_Overview)**
+
+The first comparative analysis for Demonstration Selection Algorithms. :sparkles: </div>  
+
+## News
+
+- [11/2024] Our paper has been accepted by AAAI-25 Student Abstract!
+
+---
+
+This includes an original implementation of "[Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning](https://arxiv.org/pdf/2410.23099)" by [Dong Shu](https://scholar.google.com/citations?user=KfIlTroAAAAJ&hl=en) and [Mengnan Du](https://mengnandu.com/).
 
 This code provides:
 - Links to the paper and GitHub repository related to the **demonstration selection** topic.
@@ -10,6 +24,12 @@ Please leave issues for any questions about the paper or the code.
 
 If you find our code or paper useful, please cite the paper:
 ```
+@article{shu2024comparative,
+  title={Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning},
+  author={Shu, Dong and Du, Mengnan},
+  journal={arXiv preprint arXiv:2410.23099},
+  year={2024}
+}
 ```
 
 Demonstration selection algorithms play a crucial role in enhancing the performance of Large Language Models (LLMs) on various tasks. These algorithms assist users in selecting the best k input-label pairs (demonstration examples) based on a given test input, enabling LLMs to in-context learn the relationship between the provided examples and the test inputs. Despite all the proposed demonstration selection algorithms, their efficiency and effectiveness remain unclear. This lack of clarity make it difficult to apply these algorithms in real-world scenarios and poses challenges for future research aimed at developing improved methods. This paper revisits seven proposed algorithms, evaluating them on five datasets from both efficiency and effectiveness perspectives.
@@ -103,5 +123,10 @@ If you have any question or suggestion related to this project, feel free to ope
 If you find this repository useful, please consider giving a star ⭐ and citation
 
 ```
-
+@article{shu2024comparative,
+  title={Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning},
+  author={Shu, Dong and Du, Mengnan},
+  journal={arXiv preprint arXiv:2410.23099},
+  year={2024}
+}
 ```
